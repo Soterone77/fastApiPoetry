@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.dist-info/
+*.whl
+.env
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Miscellaneous
+*.tmp
+*.bak
+*.DS_Store
+Thumbs.db
